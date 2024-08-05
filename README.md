@@ -19,7 +19,7 @@ I specialize in building scalable and reliable infrastructure, crafting seamless
 ***Cloud Technologies:***
 
 <img align='right'
-      src="https://github.com/user-attachments/assets/959fb8d6-b70f-458b-9f6a-e259e9d2297d"
+      src="https://github.com/user-attachments/assets/6a10212b-73bc-433e-ab3c-07f1c7e963ea"
        width="450">
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
